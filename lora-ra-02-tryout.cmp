@@ -1,0 +1,35 @@
+Cmp-Mod V01 Created by PcbNew   date = Tue Jun 11 22:00:27 2019
+
+BeginCmp
+TimeStamp = 5D001A13
+Path = /5D00BF8A
+Reference = R1;
+ValeurCmp = VAR_3V3,1206;
+IdModule  = footprint-lib:VAR_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D001A47
+Path = /5CFFC579
+Reference = U1;
+ValeurCmp = Ai-Thinker-Ra-02;
+IdModule  = footprint-lib:Ai-Thinker-Ra-02-LoRa;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D001A07
+Path = /5CFFE29D
+Reference = C2;
+ValeurCmp = CP22uf,16V;
+IdModule  = Capacitor_SMD:CP_Elec_4x5.3;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D0019DF
+Path = /5CFFE9C3
+Reference = C1;
+ValeurCmp = C104,0603;
+IdModule  = Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder;
+EndCmp
+
+EndListe
